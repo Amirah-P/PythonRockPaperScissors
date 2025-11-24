@@ -16,7 +16,7 @@ After displaying both the user’s and computer’s choices, the program uses a 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/g0zj8Frs/Screenshot-2025-11-24-at-19-10-52.png"/>
 <br />
 <br />
 Select the disk:  <br/>
