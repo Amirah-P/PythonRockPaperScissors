@@ -8,8 +8,9 @@ After displaying both the user’s and computer’s choices, the program uses a 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python (PyCharm)</b> 
 - <b>ASCII ART</b>
+- <b>Python 3.12.4 Documentation</b>
 
 
 <h2>Program</h2>
