@@ -1,8 +1,9 @@
 <h1>Rock, Paper, Scissors Game: Randomisation and Python lists</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+This Project was created using randomisation and python lists. The user is prompted to choose 1 ,2 or 3 When the rn button is the computer will randomly choose a... This project is written in Python and introduces beginners to basic concepts such as lists, conditional logic, and user input. The program begins by prompting the user to choose rock, paper, or scissors using a number-based input. It then stores the three possible hand signs as strings or ASCII art inside a list, allowing the program to access the corresponding choice by index. The computer’s choice is generated using the random module, selecting a number from 0 to 2.
+
+After displaying both the user’s and computer’s choices, the program uses a series of if/elif/else statements to compare outcomes and determine whether the user wins, loses, or ties. The project reinforces Python fundamentals like indexing, importing modules, and implementing decision-making logic while creating a simple, interactive game.
 
 
 <h2>Languages and Utilities Used</h2>
@@ -10,11 +11,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Python</b> 
 - <b>ASCII ART</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Program</h2>
 
 <p align="center">
 Launch the utility: <br/>
